@@ -1,5 +1,9 @@
 # obs-game-detection
 
+### Support the Developer
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E5AF13X)
+
 A short script for OBS (**Windows** platform only) that seeks to add a "game detection" functionality enabling OBS replay buffer recordings to be automatically placed into sub-directories/folders based on the game being played when it is saved. 
 
 This is similar to the functionality of ShadowPlay instant replay recordings, although desired games must be added manually. 
