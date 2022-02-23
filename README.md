@@ -27,6 +27,7 @@ This is similar to the functionality of ShadowPlay instant replay recordings, al
         - Other download options found at the bottom of [Python Release 3.6.0](https://www.python.org/downloads/release/python-360/)
     - Make note of where Python is installed to!
 <br />
+
 - **Point OBS to your Python install**
     - In the OBS script settings, select the directory with your Python3.6 installation.
 
@@ -36,6 +37,7 @@ This is similar to the functionality of ShadowPlay instant replay recordings, al
 
 - **Download this script**
     - Place both `obs-game-detection.py` and `games.cfg` in the same directory somewhere on your PC.
+        - These can be downloaded from this repo or from the [release ZIP file.](https://github.com/kabiiQ/obs-game-detection/releases/download/1.0/obs-game-detection.zip) https://github.com/kabiiQ/obs-game-detection/releases/download/1.0/obs-game-detection.zip
     - The "scripts" folder for OBS is at the path `obs-studio/data/obs-plugins/frontend-tools/scripts`, but I would recommend instead placing the script somewhere you can find and edit the `games.cfg` file easily, such as your Documents folder. 
     - Make note of where you place this script.
 
