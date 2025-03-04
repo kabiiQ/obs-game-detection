@@ -22,14 +22,14 @@ This is similar to the functionality of ShadowPlay instant replay recordings, al
 
 ## Installation into OBS Studio
 
-- **Install Python3.6.** Python version required is determined by OBS. As of the time of writing (OBS 27.1.3), other versions of Python are not supported. Python3.9 did not work when I first tried. 
-    - Download from: https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe
-        - Other download options found at the bottom of [Python Release 3.6.0](https://www.python.org/downloads/release/python-360/)
+- **Install Python3.11.** Python version required is determined by OBS. As of OBS 31.0.1, up to Python 3.11 is supported.
+    - Download from: https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
+        - Other download options found at the bottom of [Python Release 3.11.9](https://www.python.org/downloads/release/python-3119/)
     - Make note of where Python is installed to!
 <br />
 
 - **Point OBS to your Python install**
-    - In the OBS script settings, select the directory with your Python3.6 installation.
+    - In the OBS script settings, select the directory with your Python3.11 installation.
 
 ![](https://i.imgur.com/C0e9Z2z.png)
 
